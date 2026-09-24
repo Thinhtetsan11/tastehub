@@ -6,11 +6,9 @@ FoodHub
 ├── App_Start
 │   └── RouteConfig.cs
 │
-
 ├── Controllers
 │   └── HomeController.cs
 │
-
 ├── Models
 │
 ├── Views
